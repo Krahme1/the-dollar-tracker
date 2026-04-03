@@ -25,7 +25,7 @@ The Dollar Tracker is a desktop application designed to help businesses efficien
 ### 🔐 Login Window
 ![Login](screenshots/loginwindow.png)
 
-### 👤 Employee Dashboard (Clocked Out)
+### 👤 Employee Dashboard
 ![Employee Clocked Out](screenshots/employee-view.png)
 
 ### 👤 Manager Dashboard (Ready State)
